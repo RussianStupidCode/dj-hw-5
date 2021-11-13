@@ -1,0 +1,1 @@
+# [ссылка на задание](https://github.com/netology-code/dj-homeworks/tree/drf/3.1-drf-intro/simple_crud)
